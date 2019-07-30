@@ -1,2 +1,2 @@
 # Gitclass
-Git Basics
+Git Basics For Cloud and Edge Team
