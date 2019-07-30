@@ -1,2 +1,2 @@
 Second File
-Test diff
+Test Conflict
